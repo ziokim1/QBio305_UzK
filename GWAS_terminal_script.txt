@@ -1,0 +1,28 @@
+#################################
+#	Cheops Commands GWAS	#
+#################################
+
+$ plink --vcf /home/group.kurse/qbcbp012/project_work/gwas/group_2_final_accession_1001genomes_snp-short-indel_only_ACGTN_Dp10GQ20Q30_NoIndel_Bialleleic_80PcMissing.vcf.gz --indep-pairwise 50 10 0.1 --allow-extra-chr --out sample_project_plink_ldprune
+
+$ plink --vcf /home/group.kurse/qbcbp012/project_work/gwas/group_2_final_accession_1001genomes_snp-short-indel_only_ACGTN_Dp10GQ20Q30_NoIndel_Bialleleic_80PcMissing.vcf.gz --extract sample_project_plink_ldprune.prune.in --make-bed --out sample_project_plink_filtered
+
+$ plink --bfile sample_project_plink --chr 1-5 --allow-extra-chr --make-bed --out sample_project_plink_filtered
+
+$ plink --vcf /home/group.kurse/qbcbp012/project_work/gwas/group_2_final_accession_1001genomes_snp-short-indel_only_ACGTN_Dp10GQ20Q30_NoIndel_Bialleleic_80PcMissing.vcf.gz --extract sample_project_plink_ldprune.prune.in --make-bed --out sample_project_plink_filtered
+
+$ plink --bfile sample_project_plink_filtered --recode --tab --out sample_project_plink_filtered
+
+$ plink --bfile sample_project_plink_filtered --cluster --matrix --out sample_project_kinship
+
+
+$ module load miniconda
+$ conda create -n gemma
+$ conda activate gemma
+$ conda install -c bioconda gemma
+
+$ gemma --bfile sample_project_plink_filtered -p uv_index.txt -n 1 -k sample_project_kinship.mibs -lmm 4 -o sample_project_GWAS
+
+$ gemma --bfile sample_project_plink_filtered -p uv_index.txt -n 1 -k sample_project_kinship.mibs -lmm 4 -o sample_project_GWAS2 -miss 0.9 -r2 1 -hwe 0 -maf 0.05
+
+
+
