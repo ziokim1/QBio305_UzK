@@ -1,0 +1,32 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-extra-chr
+  --double-id
+  --make-bed
+  --out /home/group.kurse/qbcbp009/Group2/a.thaliana_admix
+  --vcf /home/group.kurse/qbcbp009/Group2/group_2_final_accession_1001genomes_snp-short-indel_only_ACGTN_Dp10GQ20Q30_NoIndel_Bialleleic_80PcMissing.vcf.gz
+
+Hostname: cheops41214
+Working directory: /home/group.kurse/qbcbp009/Group2
+Start time: Sat Dec 16 02:42:38 2023
+
+Random number seed: 1702690959
+24099 MB RAM detected; reserving 12049 MB for main workspace.
+--vcf: /home/group.kurse/qbcbp009/Group2/a.thaliana_admix-temporary.bed +
+/home/group.kurse/qbcbp009/Group2/a.thaliana_admix-temporary.bim +
+/home/group.kurse/qbcbp009/Group2/a.thaliana_admix-temporary.fam written.
+4220 variants loaded from .bim file.
+180 people (0 males, 0 females, 180 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/home/group.kurse/qbcbp009/Group2/a.thaliana_admix.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 180 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.795408.
+4220 variants and 180 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to /home/group.kurse/qbcbp009/Group2/a.thaliana_admix.bed +
+/home/group.kurse/qbcbp009/Group2/a.thaliana_admix.bim +
+/home/group.kurse/qbcbp009/Group2/a.thaliana_admix.fam ... done.
+
+End time: Sat Dec 16 02:42:39 2023
