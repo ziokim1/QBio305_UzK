@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1kc8AUVg2LmH4E_Qqg_wUtpNfyTbO-jkq">
+	<name>305_project_germany_map</name>
+	<gx:CascadingStyle kml:id="__managed_style_1F12AC06922E774061CC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D2D14066A2E774061CC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F12AC06922E774061CC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04065E82DA2E774061CD</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_04065E82DA2E774061CD">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_116507CB072E774061C9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2FFB3D915F2E774061C9">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_067EA358012E774061C9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_116507CB072E774061C9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FFB3D915F2E774061C9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_04988337F72E774061C6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=105213&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1EB0A2C3442E774061C5">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=105213&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E884F2FE12E774061C5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1EB0A2C3442E774061C5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04988337F72E774061C6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="08A017E1992E76D35427">
+		<name>Germany_South: 7344</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.5,47.66669999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047E11E41C2E76D48E02">
+		<name>Germany_South: 7411</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.8134,47.9299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="046CDFBD5D2E76D52AA2">
+		<name>Germany_South: 6932, 7213</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.8719,47.98399999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BB0A5CFFA2E76D615EE">
+		<name>Germany_South: 7378</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>7.766699999999999,48.0333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00DFF06CA22E76D6CE97">
+		<name>Germany_South: 6987</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>7.625509999999999,48.06829999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C5030B1DF2E76D7956B">
+		<name>Germany_South: 9995</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.4,48.14,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01174343EC2E76D84DB7">
+		<name>Germany_South: 9789</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.959999999999999,48.38999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B88C12CC52E76D941A6">
+		<name>Germany_South: 9799</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.85,48.38999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CF70DE2292E76DA52C3">
+		<name>Germany_South: 9813</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.77,48.4,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF7727C5B2E76DB0782">
+		<name>Germany_South: 9772</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.85,48.41,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A0F657BB62E76DBC901">
+		<name>Germany_South: 9775</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.789999999999999,48.41,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0205B0861E2E76DC7CAC">
+		<name>Germany_South: 9778, 9796</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.84,48.41,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B1799CE82E76DD670D">
+		<name>Germany_South: 9803</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.76,48.41999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0272FE42FB2E76DE04AB">
+		<name>Germany_South: 9814</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.789999999999999,48.41999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0355E25C5C2E76DEBF8F">
+		<name>Germany_South: 9776, 9780</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.789999999999999,48.43,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9D26BE032E76DF8B78">
+		<name>Germany_South: 10022</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>7.766699999999999,48.53,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="069A97F0E82E76E03E4A">
+		<name>Germany_South: 10027</name>
+		<styleUrl>#__managed_style_0E884F2FE12E774061C5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>7.765567,48.02838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C7BE49842E76E12298">
+		<name>Germany_Middle: 7028</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.316599999999999,49.51659999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A0F77B15F2E76E1C6B8">
+		<name>Germany_Middle: 7125</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.0087,49.5955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DB3ADE662E76E256E8">
+		<name>Germany_Middle: 7203</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.5722,49.631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0779F3FF6E2E76E32770">
+		<name>Germany_Middle: 7415</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.9361,49.7878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="040C24894A2E76E3C681">
+		<name>Germany_Middle: 7094</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.65081,49.8724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011728585B2E76E46ACE">
+		<name>Germany_Middle: 7119, 7120, 8290</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.5,50,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09000BD1CE2E76E5506B">
+		<name>Germany_Middle: 7244</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.266639999999999,50.001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FE44D75682E76E5EAD2">
+		<name>Germany_Middle: 7031</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.666699999999999,50.0167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D3657FE62E76E66B07">
+		<name>Germany_Middle: 8420</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.533299999999999,50.0667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="031D1D152E2E76E701B4">
+		<name>Germany_Middle: 7133</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.6822,50.11019999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AE76516C32E76E79283">
+		<name>Germany_Middle: 7202</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.508609999999999,50.1797,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07045750EB2E76E81FC0">
+		<name>Germany_Middle: 7276</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.583299999999999,50.2,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="019177AE812E76E8B783">
+		<name>Germany_Middle: 7062</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.266069999999999,50.2981,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="039813B3532E76E9553D">
+		<name>Germany_Middle: 6915</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>6.299999999999999,50.3,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0527658DD32E76E9E71A">
+		<name>Germany_Middle: 6919, 6922</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8,50.3,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="072CB775A32E76EA8C36">
+		<name>Germany_Middle: 6940</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.299999999999999,50.3,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07365D75A82E76EB6B5B">
+		<name>Germany_Middle: 7419</name>
+		<styleUrl>#__managed_style_067EA358012E774061C9</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.32213,50.3058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F011A6822E76EC050F">
+		<name>Germany_North: 7106</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>13.7336,51.05099999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083D689B392E76EC9D6D">
+		<name>Germany_North: 7273</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>13.2995,51.0581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09900258152E76ED40E0">
+		<name>Germany_North: 7165</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.28844,51.34720000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="037A2A73F72E76EDD931">
+		<name>Germany_North: 7117</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.68253,51.51049999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B79944ED02E76EE829B">
+		<name>Germany_North: 6920</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.935499999999999,51.5338,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05A2B1B64B2E76EF240B">
+		<name>Germany_North: 6680</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>6.433299999999999,51.84999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C86F068F52E76F03DA8">
+		<name>Germany_North: 7250</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.1138,51.9183,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F90CD629E2E76F123FD">
+		<name>Germany_North: 7162</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.44,52.24,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="067C6CF6402E76F1D340">
+		<name>Germany_North: 6982</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.299999999999999,52.3,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D15D0FC702E76F29B21">
+		<name>Germany_North: 7163</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.73569,52.3721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0293D1208D2E76F33EA7">
+		<name>Germany_North: 7013</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>13.287,52.4584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08EF0B6B962E76F3EE90">
+		<name>Germany_North: 7343</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>13.181,52.5339,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C767242B82E76F480E7">
+		<name>Germany_North: 7404</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.0667,52.6,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0546F97ACE2E76F52655">
+		<name>Germany_North: 7346</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.8558,52.6058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056AD743EB2E76F6190A">
+		<name>Germany_North: 7268</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.981,52.69690000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090ABF84582E76F7118E">
+		<name>Germany_North: 7280</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.199999999999999,53.16669999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015F29A5A62E76F7BB4B">
+		<name>Germany_North: 7287</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>8.422549999999999,53.3422,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09EAB33F452E76F8520A">
+		<name>Germany_North: 7305</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.6065,53.476,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0431711B2C2E76F8E496">
+		<name>Germany_North: 7161</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.5,53.5,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CCDA3CA882E76F9B93A">
+		<name>Germany_North: 7169</name>
+		<styleUrl>#__managed_style_0D2D14066A2E774061CC</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>9.88682,54.4175,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

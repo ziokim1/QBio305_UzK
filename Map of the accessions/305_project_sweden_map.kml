@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="14r9sjNAIFTnbnQBmJOmIoIqHVzp27d2V">
+	<name>305_project_sweden_map</name>
+	<gx:CascadingStyle kml:id="__managed_style_200A74447D2E77401C79">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_02CE6588E82E77401C76">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A3DEAC0E62E77401C75">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_20C8F345652E77401C6F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_090AFD62A92E77401C79">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_150636D5F82E77401C79</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_200A74447D2E77401C79</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0C2DB0F8272E77401C75">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A3DEAC0E62E77401C75</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_02CE6588E82E77401C76</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_13843BE0972E77401C6F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_150636D5F82E77401C79">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_013D8002032E77401C6F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13843BE0972E77401C6F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20C8F345652E77401C6F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0DA66F13BE2E76B167D2">
+		<name>Sweden_South: 991, 992, 997, 1002, 1006</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.05,55.3833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E816146082E76B3922F">
+		<name>Sweden_South: 9399</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>13.9905,55.4234,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="080E0691432E76B43AEA">
+		<name>Sweden_South: 9481</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>13.8484,55.4242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00824C77FD2E76B4FB95">
+		<name>Sweden_South: 9442</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.3398,55.5678,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083DBC3F942E76B5B76F">
+		<name>Sweden_South: 6255</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.334,55.57959999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B0AA0C4662E76B6477A">
+		<name>Sweden_South: 6252, 6258, 6268, 6276, 6284, 9476</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.3336,55.57959999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C51B8E2AC2E76B8475A">
+		<name>Sweden_South: 7516, 7517</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.334,55.58,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0768AD79A42E76B8EC0F">
+		<name>Sweden_South: 6100, 6101, 6102</name>
+		<styleUrl>#__managed_style_013D8002032E77401C6F</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>13.2,55.6,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00353993442E76B9BAAD">
+		<name>Sweden_Middle: 9339</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>15.0689,57.7133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04821917A32E76BA6797">
+		<name>Sweden_Middle: 9416</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3837,57.7215,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00CB76476B2E76BB1A04">
+		<name>Sweden_Middle: 9058</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.6333,57.75000000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0108E1335E2E76BBE29D">
+		<name>Sweden_Middle: 9453, 9454, 9455</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.5162,57.8009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09FA6BC1722E76BCEB0A">
+		<name>Sweden_Middle: 9402</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.8549,57.87650000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023E66BBFA2E76BDC5A5">
+		<name>Sweden_Middle: 6086, 8386</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.2,58.89999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0261474E4A2E76BE9403">
+		<name>Sweden_Middle: 8387</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18,59,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0922EDDC7E2E76BF2A17">
+		<name>Sweden_Middle: 1254, 1257</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.0167,59.43329999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="066AE965B02E76BFD595">
+		<name>Sweden_Middle: 1313, 1317</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.8667,59.5667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0634A380242E76C065F4">
+		<name>Sweden_Middle: 8351</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.37,60.24999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01A6DBA3CE2E76C109B4">
+		<name>Sweden_Middle: 6177</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.69,62.6322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B26CB6D072E76C1B5FC">
+		<name>Sweden_Middle: 6180</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.6906,62.6322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04BF9330112E76C241D2">
+		<name>Sweden_Middle: 6154</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.7406,62.6422,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08FC2AEDE42E76C2C8FB">
+		<name>Sweden_Middle: 6153</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.7422,62.64250000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00AB084E812E76C373FE">
+		<name>Sweden_Middle: 6163</name>
+		<styleUrl>#__managed_style_0C2DB0F8272E77401C75</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.7356,62.64250000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016F0AC8532E76C47562">
+		<name>Sweden_North: 6064, 6069, 9433</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.2763,62.9513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04947EE93F2E76C5564A">
+		<name>Sweden_North: 6231</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.2844,62.95999999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05102CEF022E76C6533B">
+		<name>Sweden_North: 6235</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3589,62.96109999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0062D0E1512E76C6DDDC">
+		<name>Sweden_North: 6241</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3608,62.96139999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB66B3F172E76C7840A">
+		<name>Sweden_North: 6237, 6238, 6240</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.35,62.96189999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA00C2DB82E76C89DF2">
+		<name>Sweden_North: 9371</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3175,63.016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B07252F22E76C9451B">
+		<name>Sweden_North: 6917, 6918</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3174,63.01650000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B24184CDB2E76C9E1B1">
+		<name>Sweden_North: 5856</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.4914,63.01669999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07305826B62E76CAD2CB">
+		<name>Sweden_North: 6216</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3283,63.01669999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00CFE603812E76CB8270">
+		<name>Sweden_North: 6217</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3283,63.0169,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08ADD8A19E2E76CC1B7A">
+		<name>Sweden_North: 6218</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3283,63.0172,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03683CF5792E76CCA35E">
+		<name>Sweden_North: 6214</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3281,63.0175,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032D8C591E2E76CD92C5">
+		<name>Sweden_North: 1552</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.3667,63.08329999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07E2078C4B2E76CE1CAF">
+		<name>Sweden_North: 6900, 6901</name>
+		<styleUrl>#__managed_style_090AFD62A92E77401C79</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>18.484,63.324,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

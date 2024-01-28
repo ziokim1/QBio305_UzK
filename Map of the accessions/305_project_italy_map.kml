@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1K-IZ8Q7bLajUsITk5oYaUQbsxyrabgNu">
+	<name>305_project_italy_map</name>
+	<gx:CascadingStyle kml:id="__managed_style_1C760AAF862E7740BEFB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ef5350&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B1CA102432E7740BEFB">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ef5350&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E003EA1B42E7740BEFB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C760AAF862E7740BEFB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B1CA102432E7740BEFB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_06B2DEB8622E7740BEF9">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16B743FF302E7740BEF8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_20060CBF052E7740BEF6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=870505&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08E321D7952E7740BEF8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16B743FF302E7740BEF8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_06B2DEB8622E7740BEF9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_198190412E2E7740BEF6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=870505&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F11C2D70F2E7740BEF6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_198190412E2E7740BEF6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20060CBF052E7740BEF6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0A594A0F022E77015E62">
+		<name>Italy_South: 7067</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>15,37.3,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08034BCCF02E77029E75">
+		<name>Italy_South: 9762</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.98,37.69,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A6F5737C12E770359F4">
+		<name>Italy_South: 9964</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.23,38.36,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06198C066D2E77043715">
+		<name>Italy_South: 9965</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.22,38.38,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D903A5D6A2E7704F351">
+		<name>Italy_South: 9653</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.13,38.44,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CA389FC0A2E7714A4F0">
+		<name>Italy_South: 9657</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.04,38.45,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EEBAD1F3E2E77159EF8">
+		<name>Italy_South: 9980</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.17,38.62,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03EAABA6682E771B3C14">
+		<name>Italy_South: 9981</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.24,38.76,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="028385A6142E771C4D6E">
+		<name>Italy_South: 9655</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.47,38.92,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="019FD203452E771D131C">
+		<name>Italy_South: 9658</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.34,38.97,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0161FFA2672E771DEFBE">
+		<name>Italy_South: 9982</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.47,39.01,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9385FF3A2E771EA00A">
+		<name>Italy_South: 9646</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.17019,39.126899,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA6C8F09C2E771FA787">
+		<name>Italy_South: 9649</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.17,39.13,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01813AC65F2E7720D19B">
+		<name>Italy_South: 9963</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.26,39.18,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F27FE50072E7721B4AF">
+		<name>Italy_South: 9968</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.27,39.27,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C503CB2972E77229865">
+		<name>Italy_South: 9648</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.28,39.48,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB2EACDAF2E77236B55">
+		<name>Italy_South: 9661</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.21,39.58,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA9CBE8BC2E77242981">
+		<name>Italy_South: 9969</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.45,40.18,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0083F0F5842E77278FC0">
+		<name>Italy_South: 9966</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>15.65,40.28,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F80C44202E77287588">
+		<name>Italy_South: 9647</name>
+		<styleUrl>#__managed_style_0F11C2D70F2E7740BEF6</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>16.77,40.37,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="091A38C6932E772996A8">
+		<name>Italy_Middle: 9962</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>15.32,40.57,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004FA5BDDB2E772A1E48">
+		<name>Italy_Middle: 9656</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>17.31,40.64,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0724973BC22E772AB3D2">
+		<name>Italy_Middle: 9651</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.87,40.68,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0924F1E5392E772B80D4">
+		<name>Italy_Middle: 9660</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.57,40.84,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D2076E4952E772C0C30">
+		<name>Italy_Middle: 9659</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.18,41.18,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B6CCD1B22E772CF669">
+		<name>Italy_Middle: 9663</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>14.09,41.33,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB3ED33FE2E772D9E5C">
+		<name>Italy_Middle: 9983, 9984</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>12.87,41.62,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="012C699AB42E772E619B">
+		<name>Italy_Middle: 7068, 7319</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>12.1,42,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05202A51242E772F99A2">
+		<name>Italy_Middle: 8243</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.2547,43.7703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07894C964A2E77303832">
+		<name>Italy_Middle: 8337</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>12.37,44,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="053E3F23D12E7730EFF2">
+		<name>Italy_Middle: 7025</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.3396,44.5041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00084E7A7A2E77318F77">
+		<name>Italy_Middle: 9976</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.167,46.2543,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00587FEFF22E77324D94">
+		<name>Italy_Middle: 9679, 9680, 9681, 9682, 9683, 9684</name>
+		<styleUrl>#__managed_style_08E321D7952E7740BEF8</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.2928,46.3378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD40162412E77337C48">
+		<name>Italy_North: 9979</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.23,46.36,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0123A5DCE82E7734300B">
+		<name>Italy_North: 9664, 9665, 9666, 9667, 9973</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.2832,46.366,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4EC26BB52E7735DE9E">
+		<name>Italy_North: 9668, 9669, 9670, 9671, 9672, 9673</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.2837,46.3668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06135BE7442E77372287">
+		<name>Italy_North: 9970</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.2376,46.3716,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04A6EE1B0F2E7737BD5C">
+		<name>Italy_North: 9676, 9677, 9678</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.2866,46.37180000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B31F218FC2E7738A821">
+		<name>Italy_North: 9971, 9972</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.331,46.513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A71D9AA0B2E773944C4">
+		<name>Italy_North: 7333</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>11.5614,46.5438,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D0CBEF34E2E7739FEA7">
+		<name>Italy_North: 9978</name>
+		<styleUrl>#__managed_style_0E003EA1B42E7740BEFB</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>10.817,46.62969999999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
