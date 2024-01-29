@@ -394,3 +394,5 @@ legend("topleft",
        legend=paste("Kruskal-Wallis p-value:", format(kruskal_result$p.value, digits=4)), 
        bty="n", 
        cex=1.5)
+
+#writeLines(capture.output(sessionInfo()), "sessionInfo_popgenome.txt")
