@@ -110,3 +110,5 @@ print(gg1)
 #ggsave("GO_results_UV_ITA_GER.png", plot = gg1, width = 11, height = 10, dpi = 300)
 #ggsave("GO_results_UV_ITA_SWE.png", plot = gg1, width = 11, height = 10, dpi = 300)
 ggsave("GO_results_UV_GER_SWE.png", plot = gg1, width = 11, height = 10, dpi = 300)
+
+#writeLines(capture.output(sessionInfo()), "sessionInfo_go.txt")
