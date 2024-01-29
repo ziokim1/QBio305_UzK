@@ -61,3 +61,5 @@ heatmap(stamppFst_matrix,
         cexRow = 1.5,
         cexCol = 1.5)
 title(main = "B", adj=0.15, cex.main = 3)
+
+#writeLines(capture.output(sessionInfo()), "sessionInfo_fst_heatmap.txt")
