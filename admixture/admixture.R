@@ -67,3 +67,5 @@ for(K in Kall)
 
 #make smaller line and change type to solid line
 plotMulti(allQ,Kall=3:7,reorder=1,pop,fast=T,lwd=1,lty=1)
+
+#writeLines(capture.output(sessionInfo()), "sessionInfo_admixture.txt")
