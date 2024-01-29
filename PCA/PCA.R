@@ -121,3 +121,5 @@ c <- ggplot(pca_3, aes(Axis1, Axis2, col = subpop)) +
 
 # Print the plot
 print(c)
+
+#writeLines(capture.output(sessionInfo()), "sessionInfo_pca.txt")
