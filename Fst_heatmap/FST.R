@@ -1,6 +1,9 @@
 ### Load packages----
 library(vcfR) # reading VCF
 library(StAMPP) # fst
+library(ComplexHeatmap)
+library("circlize")
+library("RColorBrewer")
 
 ### FST between populations and individuals----
 
@@ -32,10 +35,8 @@ stamppFst_matrix[upper.tri(stamppFst_matrix)]  <- t(stamppFst_matrix)[upper.tri(
 stamppFst_matrix = stamppFst_matrix[order(row.names(stamppFst_matrix)), order(colnames(stamppFst_matrix))]
 
 # Make an FST heatmap (by countries)
-heatmap(stamppFst_matrix,
-        symm = TRUE,
-        margins = c(10, 10))
-title(main = "A", adj=0.15, cex.main = 3)
+Heatmap(stamppFst_matrix, name = "Fst", column_title = "A", column_title_gp = gpar(fontsize = 50), column_title_side = "top",
+        col = colorRamp2(c(0, 0.02, 0.04, 0.06, 0.08), brewer.pal(n=5, name="Reds")))
 
 # Extract subpopulation data
 subpop2 = as.factor(subpop)
@@ -55,11 +56,7 @@ stamppFst_matrix[upper.tri(stamppFst_matrix)]  <- t(stamppFst_matrix)[upper.tri(
 stamppFst_matrix = stamppFst_matrix[order(row.names(stamppFst_matrix)), order(colnames(stamppFst_matrix))]
 
 # Make an FST heatmap (by regions)
-heatmap(stamppFst_matrix,
-        symm = TRUE,
-        margins = c(10, 10),
-        cexRow = 1.5,
-        cexCol = 1.5)
-title(main = "B", adj=0.15, cex.main = 3)
+Heatmap(stamppFst_matrix, name = "Fst", column_title = "B", column_title_gp = gpar(fontsize = 50), column_title_side = "top",
+        col = colorRamp2(c(-0.05, 0, 0.05, 0.10, 0.15, 0.2), brewer.pal(n=6, name="Reds")))
 
-#writeLines(capture.output(sessionInfo()), "sessionInfo_fst_heatmap.txt")
+writeLines(capture.output(sessionInfo()), "sessionInfo_fst_heatmap.txt")
